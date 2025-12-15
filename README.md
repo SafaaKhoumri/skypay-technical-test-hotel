@@ -1,9 +1,9 @@
 # Projet Skypay Hotel Reservation
 
-Voici l'interface principale :
+Voici screen 1 :
 
 ![Page d'accueil](screenshots/screen1.png)
 
-Voici la page de réservation :
+Voici Screen 2 :
 
 ![Page de réservation](screenshots/screen2.png)
